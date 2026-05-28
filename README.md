@@ -1,7 +1,8 @@
 # Telecom-Customer-Churn-Analysis
 Power BI dashboard analyzing customer churn for Indian telecom providers
 ## Dashboard Preview
-![Telecom Customer Churn Dashboard]Power BI dashboard.png
+![Telecom Customer Churn Dashboard]<img width="1341" height="743" alt="Power BI dashboard" src="https://github.com/user-attachments/assets/911a7b1f-aa11-4370-8b19-a9b3858f0fd1" />
+
 
 ## Business Problem
 Customer churn is a critical challenge for telecom companies.
